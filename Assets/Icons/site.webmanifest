@@ -1,0 +1,24 @@
+{
+  "name": "ShopZone — Millions of Products. Great Prices.",
+  "short_name": "ShopZone",
+  "description": "Shop the best deals on electronics, accessories, home goods and more.",
+  "icons": [
+    {
+      "src": "Assets/Icons/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "Assets/Icons/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "theme_color": "#131921",
+  "background_color": "#eaeded",
+  "display": "standalone",
+  "start_url": "/",
+  "scope": "/"
+}
