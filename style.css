@@ -651,6 +651,7 @@ button {
   line-height: 1.35;
   display: -webkit-box;
   -webkit-line-clamp: 2;
+  line-clamp: 2;
   -webkit-box-orient: vertical;
   overflow: hidden;
 }
@@ -837,8 +838,6 @@ button {
   border-radius: var(--radius-sm);
 }
 
-.cart-items-list {
-}
 .cart-item {
   display: flex;
   gap: 16px;
