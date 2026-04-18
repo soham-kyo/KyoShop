@@ -1,5 +1,5 @@
 ---
 
-## KyoShop
+## 🛍️ KyoShop 🛍️
 
 ---
